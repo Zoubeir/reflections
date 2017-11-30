@@ -5,3 +5,8 @@ To start tracking changes being made.
 
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+- staging area is an intermediate area which holds files ready to be commited.
+- working directory is where the files are located and are being manipulated and used.
+- repository hold information about the different versions of a file, i.e. changes made to it.
+
+

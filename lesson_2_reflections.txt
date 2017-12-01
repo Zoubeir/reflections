@@ -9,4 +9,6 @@ To start tracking changes being made.
 - working directory is where the files are located and are being manipulated and used.
 - repository hold information about the different versions of a file, i.e. changes made to it.
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
 
